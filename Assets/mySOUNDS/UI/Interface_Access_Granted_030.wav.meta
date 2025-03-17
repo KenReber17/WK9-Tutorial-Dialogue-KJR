@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 6d7905f947855b2479736b8ea83e8827
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199923
+  packageName: Binary Code 3 - Hi-Tech Interface HUD & UI Sound Effects
+  packageVersion: 1.0
+  assetPath: Assets/Binary Code 3 - Interface Multiverse/3. Confirmed (Access Granted)/Interface_Access_Granted_030.wav
+  uploadId: 444847

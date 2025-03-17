@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 283320a690e4dd54fad3ba4b1c87ae32
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28542
+  packageName: Futuristic Weapons And Mechs SFX Collection
+  packageVersion: V1.5
+  assetPath: Assets/Futuristic Weapons And Mechs Sound FX/4_Blaster Rifle Shot V01.wav
+  uploadId: 480362

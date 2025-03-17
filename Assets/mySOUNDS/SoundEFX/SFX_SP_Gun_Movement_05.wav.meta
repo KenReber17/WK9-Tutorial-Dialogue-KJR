@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: ef83f109346f0a34080c33db03ed2c9d
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179168
+  packageName: Futuristic Weapons FiringFX with Sounds
+  packageVersion: 1.04
+  assetPath: Assets/Futuristic Weapons FiringFX with Sounds/Sounds/Sounds_Gun_Handlings/SFX_SP_Gun_Movement_05.wav
+  uploadId: 492080
